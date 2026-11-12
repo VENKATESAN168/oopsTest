@@ -1,4 +1,4 @@
-package condition;
+package conditionlogic;
 
 public class Exampleif_1 {
 	public static void main(String[] args)

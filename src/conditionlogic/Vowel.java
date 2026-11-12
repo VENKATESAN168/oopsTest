@@ -1,4 +1,4 @@
-package condition; 
+package conditionlogic; 
 import java.util.Scanner;
 
 public class Vowel  {

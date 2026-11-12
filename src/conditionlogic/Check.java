@@ -1,4 +1,4 @@
-package condition;
+package conditionlogic;
 
 public class Check {
 public static void main(String[] args)
