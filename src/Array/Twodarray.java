@@ -24,7 +24,7 @@ public class Twodarray {
             }
         }
 
-        // Display marks and calculate
+        // Display marks and  calculate
         for (int i = 0; i < 3; i++) {
 
             int total = 0;

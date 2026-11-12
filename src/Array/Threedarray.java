@@ -11,7 +11,7 @@ public class Threedarray {
 
         int overallHighest = 0;
 
-        // Get marks
+        // Get  marks
         for (int i = 0; i < 2; i++) {
 
             System.out.println("Department " + (i + 1));
