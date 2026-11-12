@@ -15,7 +15,7 @@ public class Onedarray {
         int pass = 0;
         int fail = 0;
 
-        // Get student marks
+        // Get student  marks
         for (int i = 0; i < 10; i++) {
             System.out.print("Enter mark: ");
             marks[i] = sc.nextInt();
