@@ -14,7 +14,7 @@ public class Twodarray {
         int topperClass = 0;
         int topperStudent = 0;
 
-        // Get  marks
+        // Get marks
         for (int i = 0; i < 3; i++) {
             System.out.println("Enter marks for Class " + (i + 1));
 
